@@ -1,0 +1,28 @@
+﻿Построение начато 28.11.2016 21:53:43.
+     1>Проект "C:\Users\lushi\documents\visual studio 2010\Projects\вар13\вар13\вар13.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\вар13.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\вар13.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "вар13.cpp"
+         вар13.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lushi\documents\visual studio 2010\Projects\вар13\Debug\вар13.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\вар13.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lushi\documents\visual studio 2010\Projects\вар13\Debug\вар13.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lushi\documents\visual studio 2010\Projects\вар13\Debug\вар13.lib" /MACHINE:X86 "Debug\вар13.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\вар13.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\вар13.exe.embed.manifest" /manifest "Debug\вар13.exe.intermediate.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         вар13.vcxproj -> C:\Users\lushi\documents\visual studio 2010\Projects\вар13\Debug\вар13.exe
+       FinalizeBuildStatus:
+         Файл "Debug\вар13.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\вар13.lastbuildstate".
+     1>Построение проекта "C:\Users\lushi\documents\visual studio 2010\Projects\вар13\вар13\вар13.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.84
